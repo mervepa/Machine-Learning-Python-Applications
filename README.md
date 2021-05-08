@@ -4,4 +4,6 @@
 #### 1-KMEANS and KNN Algorithms
 #### 2-ID3 and C4.5 
 #### 3-Naive Bayes and Lineer Regression
+#### 4-Anfis (Adaptive Neuro Fuzzy Inference System)
+#### 5-MLP (Multilayer Perception)
 
