@@ -6,4 +6,5 @@
 #### 3-Naive Bayes and Lineer Regression
 #### 4-Anfis (Adaptive Neuro Fuzzy Inference System)
 #### 5-MLP (Multilayer Perception)
+#### 6-Q Learning
 
