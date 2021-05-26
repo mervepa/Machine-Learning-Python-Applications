@@ -8,4 +8,5 @@
 #### 5-MLP (Multilayer Perception)
 #### 6-Q Learning
 #### 7-Radius Basis Function
+#### 8-SVM
 
