@@ -8,6 +8,6 @@
 #### 5-MLP (Multilayer Perception)
 #### 6-Q Learning
 #### 7-Radius Basis Function
-#### 8-Support Vector Machines
-#### 9-Convolutional Neural Network
-#### 10-Long Short-Term Memory
+#### 8-SVM(Support Vector Machines)
+#### 9-CNN(Convolutional Neural Network)
+#### 10-LSTM(Long Short-Term Memory)
